@@ -15,6 +15,46 @@
 
 The pay is very good even at the beginning of your career. Entry Level pay - 50k - some jobs start 100k. Pay ranges are around 300k
 
+Notes: Model Of Computer Security 
+Protection = prevention + (Detectition + Response)
+Projecttion - What the goal is 
+Prevention - What you can do ahead of time. 
+Detection - What you can do while the system is running to determine if something is wrong
+Response - When something wrond is detecyed what you can do to fix the problem.
+Every security technique falls into at least one of the three elements of this equation.
+
+CIA TRIAD: 
+1. Condidentiality
+A. Data is not reaveled. 
+2. Integrity
+A. Data is intact - not modified or corrupted.
+3. Availability
+A. Data is accessible to allowed users. 
+
+Notes: Data "states"
+TO prorect the CIA of data, we need to know what "state" the data is in and then we can apply the right cybersecurity tool. 
+Data at rest = Storage information is at rest; usually files, databases, etc stored on hard rives, USB drives, memory, DVDS
+Data in Transit = trasnmission being moved from one system to another or f ile sharing on a LAN or transfer on the Internet, etc. 
+Data in Use = processing file creation by uzser, data used in an application, being processes or plaved in memory, etc. 
+
+Notes: Breach of CIA examples
+Loss of Confidentiality
+Stolen data that was made in public
+
+- NSA leaks of government data by Edward Snowden 
+
+Notes: Breach of CIA examples
+Loss of Integrity 
+Data that was corrupted
+
+- STUXNET worm - changed the code on centrifuge machines in an Iranian nuclear facility so that they ran too high 
+
+Notes: Breach of CIA examples
+Loss of Availability
+Data is inaccessible
+A common reason is a DDoS attack = Distributed Denial of Service
+
+- Mirai Botnet takes down 
 
 
 ### Application / Personal Research / Summary
