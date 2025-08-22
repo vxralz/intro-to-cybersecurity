@@ -66,3 +66,9 @@ A common reason is a DDoS attack = Distributed Denial of Service
 > Include the vocabulary word(s) from this lesson with a defintion
 
 ...
+
+3 A's 
+1. Authentication = prove who you are
+2. Access Control = what you are allowed to see or get (aka: authorization or permission)
+3. Accounting = keep track of what you've done and what has happened (aka: auditing)
+and then Password
