@@ -60,7 +60,7 @@ A common reason is a DDoS attack = Distributed Denial of Service
 ### Application / Personal Research / Summary
 > In your own words, write a summary of this lesson and connect it to yourself and the real-world. If needbe, do a rapid research on the topic to help with you summary
 
-...
+... 
 
 ### Vocabulary
 > Include the vocabulary word(s) from this lesson with a defintion
@@ -72,3 +72,12 @@ A common reason is a DDoS attack = Distributed Denial of Service
 2. Access Control = what you are allowed to see or get (aka: authorization or permission)
 3. Accounting = keep track of what you've done and what has happened (aka: auditing)
 and then Password
+
+1. Database
+2. Dictionary Attack
+3. Brute Force Attack
+4. Hybrid Attack
+5. Password spraying
+6. Credentials
+7. Credential Stuffing
+8. Breach
